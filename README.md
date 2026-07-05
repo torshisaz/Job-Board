@@ -1,6 +1,5 @@
 # Job Board
 Platform for finding and posting jobs.
-
 ## Features
 - Job listings
 - Company profiles
