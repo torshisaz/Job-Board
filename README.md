@@ -5,7 +5,7 @@ Platform for finding and posting jobs.
 - Company profiles
 - Apply with resume
 - Email notifications
-- Admin 
+-  
 ## Tech Stack
 - Django
 - PostgreSQL
