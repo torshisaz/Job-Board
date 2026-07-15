@@ -6,7 +6,6 @@ Platform for finding and posting jobs.
 - Apply with resume
 - Email notifications
 -  ## Tech Stack
--  
 - PostgreSQL
 - AWS S3
 - Celery
