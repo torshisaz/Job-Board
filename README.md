@@ -8,6 +8,5 @@ Platform for finding and posting jobs.
 -  ## Tech Stack
 - PostgreSQL
 - AWS S3
-- 
 ## License
 MIT
